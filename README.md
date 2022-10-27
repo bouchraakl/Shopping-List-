@@ -4,6 +4,6 @@ Creation of a Shopping List ultilizing :
 <li>HTML</li>
 <li>CSS</li>
 <li>DOM in Javascript</li>
-
+<br>
 DEMO LINK : https://bouchraakl.github.io/Shopping-List-/
 
